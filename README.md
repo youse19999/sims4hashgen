@@ -8,4 +8,4 @@ size = 16/2
 
 Usable:
 If you wanna make hash with strings
-hash2string('instancename',8)
+string2hash('instancename',8)
